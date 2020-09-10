@@ -1,0 +1,36 @@
+Input file: ./Instances/rudy/rudy_150/ro_1.6/pm1s_150.7
+
+Graph has 150 vertices and 1118 edges.
+Parameters:
+              sigma0 = 1.600000
+          scaleSigma = 1.001000
+        ADMM_itermax = 2000
+                tol0 = 0.050000
+            scaleTol = 0.600000
+              minTol = 0.001000
+          triag_iter = 3
+           pent_iter = 3
+           hept_iter = 3
+      max_outer_iter = 12
+          extra_iter = 5
+    violated_TriIneq = 0.001000
+             TriIneq = 1500
+      adjust_TriIneq = 1
+            PentIneq = 5000
+           HeptaIneq = 5000
+         Pent_Trials = 60
+        Hepta_Trials = 50
+        include_Pent = 1
+       include_Hepta = 1
+                root = 0
+            use_diff = 1
+   branchingStrategy = 1
+
+Nodes = 2363
+Root node bound = 236.34
+Maximum value = 223
+Solution = ( 13 14 15 16 17 19 20 21 23 25 26 29 30 31 42 43 45 46 48 50 52 53 54 56 57 58 59 61 62 67 69 73 75 77 79 83 84 90 92 95 97 99 100 101 102 103 104 105 106 107 111 112 113 114 118 122 123 125 126 128 130 132 133 134 135 136 138 139 144 148 149 )
+Time = 18.16 s
+
+Number of cores: 240
+Maximum number of workers used: 239
